@@ -9,8 +9,8 @@ function App() {
     var privateVar;
 
     this.publicMethod = function () {
-        privateMethod();
+        _privateMethod();
     };
 
-    function privateMethod() {}
+    function _privateMethod() {}
 }
