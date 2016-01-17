@@ -1,4 +1,5 @@
 var Module = (function () {
+    var privateVar;
 
     var _privateMethod = function () {
         console.log("Hello 1");
