@@ -1,15 +1,14 @@
 <!doctype html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>onload test</title>
+
     <script>
-        function load() {
-            console.log("load event detected!");
-        }
-        window.onload = load;
+        window.onload = function() {
+            console.log("init");
+        };
     </script>
+
 </head>
-<body>
-<p>The load event fires when the document has finished loading!</p>
-</body>
 </html>

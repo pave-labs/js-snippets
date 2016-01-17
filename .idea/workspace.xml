@@ -21,11 +21,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="global_events.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="global_events.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/global_events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3322785">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state vertical-scroll-proportion="-7.5">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/patterns/module.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5045872">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IIFE.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/patterns/IIFE.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -37,6 +57,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -44,6 +65,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/global_events.html" />
+        <option value="$PROJECT_DIR$/patterns/IIFE.js" />
+        <option value="$PROJECT_DIR$/patterns/module.js" />
       </list>
     </option>
   </component>
@@ -100,6 +123,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js-snippets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -110,8 +147,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.module.js">
+    <configuration default="false" name="module.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="module.js" working-dir="$PROJECT_DIR$/patterns">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -144,6 +185,14 @@
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.module.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.module.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -164,18 +213,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991204" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -188,8 +237,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/global_events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3322785">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state vertical-scroll-proportion="-7.5">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/IIFE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/patterns/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5045872">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding />
         </state>
       </provider>
