@@ -1,14 +1,9 @@
-<!doctype html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>onload test</title>
+<input type="button" value="Say hello" onClick="showAndroidToast('Hello Android!')"/>
+<script type="text/javascript">
+    function showAndroidToast(toast) {
+        Android.showToast(toast);
+    }
 
-    <script>
-        window.onload = function() {
-            console.log("init");
-        };
-    </script>
-
-</head>
+</script>
 </html>
